@@ -1,6 +1,6 @@
 #!/bin/bash
 echo Release: testorg
 echo Tag: testorg
-echo Latest Commit Hash: 2ec3fd2ff3fe529cebf344e8917c14cfcf53751e
-echo Latest Commit Date: 2025-03-28 22:13:02 +0000
-echo Github Branch Version: 2.11.1_stackversion
+echo Latest Commit Hash: 42a156de98dff99c370e2ff71dbe204eb116fc3b
+echo Latest Commit Date: 2025-03-28 22:31:48 +0000
+echo Github Branch Version: 2.11.2
